@@ -1,4 +1,6 @@
 ProjetoTesteGemtranslatetoenglish::Application.routes.draw do
+  get "traducao/index"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
