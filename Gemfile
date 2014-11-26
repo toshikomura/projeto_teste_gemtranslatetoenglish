@@ -36,3 +36,6 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+
+# Add gem to translate portuguese to english
+gem 'gemtranslatetoenglish'
